@@ -119,7 +119,7 @@ Foto stock dari Pexels: portrait oleh Lil K (18165007), interior oleh Thoi Nam C
 
 Empat screenshot concept project merupakan komposisi UI original yang dibuat untuk konten contoh. `node scripts/generate-previews.mjs` merender ulang cover; memerlukan Playwright Chromium dan dependensi browser (`npx playwright install --with-deps chromium`). Jangan menyatakan concept project sebagai pekerjaan klien nyata.
 
-Font: Manrope, Space Grotesk, dan Barlow Condensed, self-hosted melalui Fontsource. Tidak ada asset atau identitas visual Lando Norris yang digunakan.
+Font: Manrope, Space Grotesk, dan Barlow Condensed, self-hosted melalui Fontsource. 
 
 ## Pembaruan Interaksi Dan CMS
 
